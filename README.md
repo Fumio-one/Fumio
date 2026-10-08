@@ -1,14 +1,19 @@
 # Fumio
 
-Movies, series and anime in one fast, clean Android app, built for phones and Android TV.
+Movies, series and anime in one fast, clean Android app.
+
+> Fumio is in **alpha**. Expect bugs, and please report anything you find.
 
 ## Features
 
 - **Movies, series and anime** in a single place, with posters, ratings, cast and details
+- **5 providers and servers** to stream from, so there is always another one to try
+- **4K support** where the source offers it
+- **Multi-language**: multiple audio tracks and subtitles
 - **Trailers** in the details hero, fetched on your device
-- **Full-screen player** with multiple audio tracks and subtitles
-- **Providers** to add your own stream sources (see below)
-- **Phone and TV** support: Android phones and tablets, Android TV, Google TV and Fire TV
+- **Full-screen player** built for phones
+- **Your own providers**: add more stream sources from the Extensions screen (see below)
+- **Android only for now**: phones and tablets. TV and other platforms are coming later
 
 ## Install
 
@@ -21,9 +26,9 @@ Requires **Android 7.0 or newer**.
 
 The app checks the latest release for updates: open the **Account** tab and tap **Check for updates**.
 
-## Add a source
+## Add your own source
 
-Fumio has no built-in sources and does not host any media. To play something:
+Want a source that isn't included?
 
 1. Open the **Extensions** screen.
 2. Add a Fumio provider repo as `owner/repo` or a GitHub URL.
@@ -32,4 +37,4 @@ Fumio providers run in a sandbox and only supply streams.
 
 ## Disclaimer
 
-Fumio is a media browser and player. It does not host, upload or store any files, and it is not affiliated with any content provider. You are responsible for the sources you add.
+Fumio is a media browser and player. It does not host, upload or store any files, and it is not affiliated with any content provider. You are responsible for the sources you use.
